@@ -7,7 +7,7 @@ import { Provider } from "react-redux";
 import AddNoteForm from "./components/AddNoteForm";
 import NoteList from "./components/NoteList";
 
-import "./styles.scss";
+import "./styles.css";
 
 function App() {
   return (
